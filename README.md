@@ -1,0 +1,4 @@
+- Hi, I’m Nikita Kosenkov.
+- I’m interested in frontend and software ingineering
+- I’m currently learning: JavaScript, HTML, CSS, java
+- How to reach me: https://vk.com/nikita_kosenkov
