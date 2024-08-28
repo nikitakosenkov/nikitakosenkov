@@ -1,5 +1,7 @@
 - Hi, I’m Nikita Kosenkov.
-- I’m interested in frontend and software ingineering
-- I’m currently learning: JavaScript, HTML, CSS, java
-- How to reach me: https://vk.com/nikita_kosenkov
-- At the moment I'm 16 y.o. 
+- I’m interested in software engineering
+- I have experience with: Python, C++, JavaScript, HTML, CSS
+- Graduated from: Yandex Lyceum "Основы
+программирования на Python" and "Промышленное программирование на Python" (certificate with honors)
+- My Telegram account: @nikitakosp
+- At the moment I'm 17 y.o. 
