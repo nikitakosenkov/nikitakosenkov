@@ -1,8 +1,8 @@
 - Hi, I’m Nikita Kosenkov.
 - I’m interested in software engineering
-- i'm a Python developer. Can do anything with Python (games, websites, bots for Telegram, VK and Discord, applications with databases, etc.)
-- I have experience with: Python, C++, HTML, CSS, API, SQLite, PostreSQL, QT
+- i'm a Python developer. Can do anything with Python (games, web-applications using Django, DRF, Flask, bots for Telegram, VK and Discord, dextop applications with databases using QT, etc.)
+- I have experience with: Python, C++, HTML, CSS, Django, DRF, Flask, SQLite, PostreSQL, QT
 - Graduated from: Yandex Lyceum "Основы
 программирования на Python" and "Промышленное программирование на Python" (certificates with honors)
 - My Telegram account: @nikitakosp
-- At the moment I'm 17 y.o. 
+- Currently I'm 17 y.o. 
